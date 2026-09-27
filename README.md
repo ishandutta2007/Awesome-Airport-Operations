@@ -62,73 +62,56 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
+- **[Airport Management System Database Design](https://github.com/patilankita79/Airport-Management-System-Database-Design)** [![Stars](https://img.shields.io/badge/stars-75-white?style=social)](https://github.com/patilankita79/Airport-Management-System-Database-Design/stargazers)  
+  Comprehensive database management project implemented in Oracle SQL, covering airport operations, airlines, passengers, staff deployment, and underlying operational workflow factors.
 
+- **[Airport Management System (codeforgeyt)](https://github.com/codeforgeyt/airport-management)** [![Stars](https://img.shields.io/badge/stars-17-white?style=social)](https://github.com/codeforgeyt/airport-management/stargazers)  
+  Multi-module Java Spring Boot application built with Maven for managing airport resources, flight operations, and passenger processing pipelines.
 
-- **[A-CDM Simulator](https://github.com/A-CDMteam/SimuladorV2.0)**  
+- **[Airport Management System (sharanyakamath)](https://github.com/sharanyakamath/Airport-Management-System)** [![Stars](https://img.shields.io/badge/stars-15-white?style=social)](https://github.com/sharanyakamath/Airport-Management-System/stargazers)  
+  Full-stack web application developed with Python Django and MySQL for centralized management of airport flight schedules, ticketing, passenger records, and gate assignments.
 
-  Agent-based simulation environment for Airport Collaborative Decision Making (A-CDM) developed as a thesis project at Universitat Politècnica de Catalunya. Implements the full Eurocontrol Milestone Approach with 16 milestones, flight plan activation, time calculations (ETOT, TFIR, ELDT, EIBT, TOBT, TSAT), and multi-agent coordination between CFMU, airport, airline, and ground handler agents. Designed for research and training in A-CDM concepts .
+- **[vACDM Plugin](https://github.com/vACDM/vacdm-plugin)** [![Stars](https://img.shields.io/badge/stars-14-white?style=social)](https://github.com/vACDM/vacdm-plugin/stargazers)  
+  EuroScope plugin implementing Airport Collaborative Decision Making (A-CDM) milestones, departure sequence planning, and flight status tracking for virtual air traffic simulation.
 
+- **[vACDM Server](https://github.com/vACDM/vacdm-server)** [![Stars](https://img.shields.io/badge/stars-10-white?style=social)](https://github.com/vACDM/vacdm-server/stargazers)  
+  Backend server for vACDM providing real-time data sync, A-CDM milestone management (TOBT, TSAT, TTOT), and central telemetry coordination across airports.
 
+- **[Airport Management System (sarina-hemmatpour)](https://github.com/sarina-hemmatpour/Airport-Managment-System)** [![Stars](https://img.shields.io/badge/stars-7-white?style=social)](https://github.com/sarina-hemmatpour/Airport-Managment-System/stargazers)  
+  Desktop management software for airport operations featuring gate assignment, flight schedule monitoring, and employee role access control.
 
-- **[Airport Traffic Control Simulator](https://github.com/Henrique-Versiani/Airport-Traffic-Control)**  
+- **[OpenFIDS](https://github.com/henrus1/openfids)** [![Stars](https://img.shields.io/badge/stars-4-white?style=social)](https://github.com/henrus1/openfids/stargazers)  
+  Free, self-hosted Flight Information Display System in PHP and SQL with multiple screen display layouts for regional airports and passenger lounges.
 
-  Simulation of air traffic control for a high-demand international airport, developed in C with PThreads. Models runways, gates, and control towers as managed resources with distinct rules for domestic and international flights. Implements deadlock detection and resolution via resource preemption, starvation prevention through priority aging, and comprehensive logging. Demonstrates concurrency management principles applicable to real airport operations .
+- **[Airport Management Access DB](https://github.com/FreezeHeat/AirportManagement)** [![Stars](https://img.shields.io/badge/stars-4-white?style=social)](https://github.com/FreezeHeat/AirportManagement/stargazers)  
+  Relational database system implemented in Microsoft Access for tracking flight movements, crew assignments, and gate usage.
 
+- **[Airport Management (Adecel)](https://github.com/Adecel/airport-management)** [![Stars](https://img.shields.io/badge/stars-3-white?style=social)](https://github.com/Adecel/airport-management/stargazers)  
+  Open-source application for tracking airport terminal operations, aircraft arrival/departure statuses, and facility resource schedules.
 
+- **[FIDS Server (bhishekarora)](https://github.com/bhishekarora/FIDS)** [![Stars](https://img.shields.io/badge/stars-1-white?style=social)](https://github.com/bhishekarora/FIDS/stargazers)  
+  Flight Information Display System server written in Node.js, Angular, MySQL, and WebSockets featuring real-time screen management and customizable arrival/departure views.
 
-- **[Airport Database Management System (Jana-Ahmed)](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system)**  
+- **[CDM Plugin (skyelaird)](https://github.com/skyelaird/CDM)** [![Stars](https://img.shields.io/badge/stars-1-white?style=social)](https://github.com/skyelaird/CDM/stargazers)  
+  EuroScope plugin implementing Eurocontrol Airport Collaborative Decision Making (A-CDM) milestones (EOBT, TOBT, TSAT, TTOT) for ATC simulation networks.
 
-  Fully integrated platform designed to control and optimize major airport operations including flight scheduling, passenger check-in, baggage handling, and security monitoring. Supports multiple user types (Passengers, Airline Employees, Flight Crew) with role-based functionality for coordination across departments. Features flight delay/cancellation tracking, gate change notifications, staff assignment, and baggage status monitoring .
+- **[A-CDM Simulator](https://github.com/A-CDMteam/SimuladorV2.0)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/A-CDMteam/SimuladorV2.0/stargazers)  
+  Agent-based simulation environment for Airport Collaborative Decision Making (A-CDM) implementing Eurocontrol's 16 milestones, ETOT/TOBT time calculations, and multi-agent coordination.
 
+- **[Airport Traffic Control Simulator](https://github.com/Henrique-Versiani/Airport-Traffic-Control)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/Henrique-Versiani/Airport-Traffic-Control/stargazers)  
+  Air traffic control simulation in C with POSIX Threads modeling runways, gates, deadlock detection/resolution, priority aging, and resource contention.
 
+- **[Airport Database Management System (Jana-Ahmed)](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/Jana-Ahmed-20005/Airport-database-managment-system/stargazers)  
+  Database platform for optimizing flight scheduling, passenger check-in, baggage status tracking, and multi-role airport department access.
 
-- **[FIDS Server (bhishekarora)](https://github.com/bhishekarora/FIDS)**  
+- **[Airport Management System (BDIZ)](https://github.com/soalko/BDIZ_Project)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/soalko/BDIZ_Project/stargazers)  
+  Python/PySide6 desktop application with PostgreSQL backend for managing aircraft, flights, tickets, crews, and data validation rules.
 
-  Simple Flight Information Display System written in Angular/Node/MySQL/WebSockets for small airports or lounges. Features admin panel for screen management, arrivals/departures content updates, advertisement display, and multiple screen mapping. API-based architecture allows plugging in any flight data source. Suitable for prototyping FIDS functionality .
+- **[Aeroporto Napoli Desktop Application](https://github.com/mattialemma/Applicativo_Aeroporto)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/mattialemma/Applicativo_Aeroporto/stargazers)  
+  Java Swing desktop application with PostgreSQL for centralized airport management, booking administration, lost baggage tracking, and delay monitoring.
 
-
-
-- **[OpenFIDS](https://github.com/henrus1/openfids)**  
-
-  Free, self-hosted flight information display system that any airport can install on almost any computer. PHP and SQL-based with multiple display options and customizable layouts. Designed for quick deployment and commercial use. Last updated 2017 but functional for basic FIDS needs .
-
-
-
-- **[Airport Management System (BDIZ)](https://github.com/soalko/BDIZ_Project)**  
-
-  Python/PySide6 desktop application with PostgreSQL backend for managing airport data including aircraft, flights, passengers, tickets, crews, and crew members. Features graphical interface, database schema management, demo data generation, and data integrity validation. Academic project demonstrating full-stack airport data management .
-
-
-
-- **[Aeroporto Napoli Desktop Application](https://github.com/mattialemma/Applicativo_Aeroporto)**  
-
-  Java Swing desktop application with PostgreSQL for centralized management of Naples airport operations. Features flight monitoring, booking management, baggage tracking with lost baggage reporting, and role-based access (generic user vs administrator). Real-time homepage showing arrivals/departures with delay and cancellation highlighting .
-
-
-
-- **[CDM Plugin (skyelaird)](https://github.com/skyelaird/CDM)**  
-
-  Euroscope plugin implementing Airport Collaborative Decision Making (A-CDM) functions for VATSIM/IVAO air traffic control simulation. Features EOBT/TOBT/TSAT/TTOT management, flight state coloring, CDM airport panel, ATFCM flight list, and CDM-Network integration. Implements real-world A-CDM procedures in a simulation environment .
-
-
-
-- **[GestionAir](https://github.com/ffillouxdev/GESTIONAIR)**  
-
-  Console application in C for managing flight operations at Grenoble Alpes Isère Airport. Features flight schedule display, flight search by airline/destination/time, passenger boarding management, delay handling with rescheduling, cancellation processing, and runway utilization maximization. CSV-based data persistence. Academic project demonstrating core airport operations logic .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Applicativo Aeroporto (mattialemma)** — Java/PostgreSQL desktop application for Naples airport management with booking, baggage tracking, and admin controls .
-
-- **BDAD_airportManagement** — SQL database designed from scratch to manage data related to a specific airport. Basic schema without application layer .
-
-- **Onix** — Web platform for managing Brazilian airports with resources for multiple airport management with their own aircraft. Limited documentation available .
-
-- **Flight Information Library (C#)** — Extracts flight information from aircraft movements including departure/arrival airfield and times, total flight time, and more. Library component for FIDS integration .
+- **[GestionAir](https://github.com/ffillouxdev/GESTIONAIR)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/ffillouxdev/GESTIONAIR/stargazers)  
+  Console application in C for managing airport flight operations, passenger boarding, schedule updates, and runway utilization optimization.
 
 
 
