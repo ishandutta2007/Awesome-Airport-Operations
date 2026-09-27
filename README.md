@@ -42,65 +42,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Overview:** The global Airport Management Systems (AMS) market is estimated at **$20.0 Billion – $45.7 Billion** (projected to reach $45.72 Billion by 2034 with a ~16.6% CAGR). The sector is **moderately to highly fragmented**, comprising specialized software providers, infrastructure integrators, and global aerospace enterprise conglomerates across flight information display, airside operations, and A-CDM sub-segments.
 
+| Platform | Parent / Company | Company Size (Revenue / Valuation) | Starting Pricing | Free Tier / Trial Limit | Key Features & Focus |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[AirIT](https://www.airit.com/)** | Collins Aerospace / RTX Corp | ~$74.3B Revenue (Parent) / ~$140B Valuation ($20M Division Revenue) | $15,000 / year (Entry operational database & flight display base tier) | 30-day sales-assisted demonstration trial with sample flight data sandbox | Airport IT services offering flight information display systems (FIDS) and operational database solutions deployed at major international hubs like Philadelphia. |
+| **[Amadeus Airport Operational Database](https://amadeus.com/en/airports/airport-operational-database)** | Amadeus IT Group | ~$7.69B (€6.5B) Revenue / ~$25B Valuation | $15,000 / year (Regional airport tier base contract) | 30-day proof-of-concept trial environment for up to 5 operator accounts | Central operational database consolidating real-time flight, resource, and passenger data for airport-wide situational awareness. |
+| **[Amadeus ACUS](https://amadeus.com/en/airports)** | Amadeus IT Group | ~$7.69B (€6.5B) Revenue / ~$25B Valuation | $1,200 / month ($14,400 / year) per airport terminal gate/kiosk license | 30-day developer sandbox environment for CUSS/CUPPS integration testing | Cloud Common Use Service for flexible passenger processing, mobile check-in, and shared airport terminal infrastructure. |
+| **[SITA Airport Management](https://www.sita.aero/solutions/sita-airport-management/)** | SITA | ~$1.5B Revenue / ~$3.0B Valuation | $12,000 / year (Tiered by annual passenger movement volume) | 30-day evaluation sandbox trial with simulated flight feeds for airport authorities | Integrated airport operations platform covering flight information, stand allocation, resource management, and A-CDM workflows. |
+| **[ADB SAFEGATE OneControl](https://www.adbsafegate.com/)** | ADB SAFEGATE | ~$500M Revenue / ~$1.2B Valuation | $20,000 / year (Per integrated airfield and apron control module) | 14-day guided virtual simulation trial environment for airside operations staff | Unified airport operations control system connecting airside, apron, and terminal management with real-time situational awareness. |
+| **[ADB Safegate Apron & Gate Systems](https://www.adbsafegate.com/)** | ADB SAFEGATE | ~$500M Revenue / ~$1.2B Valuation | $18,000 / year (Per terminal apron unit license) | 14-day guided virtual demonstration trial for ground operations team | Visual docking guidance, apron management solutions, and airside surveillance integration. |
+| **[INFORM Airport Suite](https://www.inform-software.com/)** | INFORM GmbH | ~$120M Revenue / ~$300M Valuation | $10,000 / year (Per GroundStar resource optimization module) | 30-day proof-of-concept pilot instance for ground handling workforce management | AI-powered airport operations software suite featuring workforce optimization, turnaround management, and passenger flow analytics. |
+| **[Veovo](https://www.veovo.com/)** | Veovo / LLR Partners | ~$50M Revenue / ~$150M Valuation | $8,000 / year (Entry passenger queue analytics module) | 30-day guided sandbox trial with up to 2 sensor data stream integrations | Predictive airport operations platform offering passenger flow forecasting, queue monitoring, and real-time asset allocation. |
+| **[Damarel FiNDnet](https://www.damarel.com/)** | Damarel Systems | ~$12M Revenue / ~$30M Valuation | $5,000 / year (Per station for ground handling operations) | 30-day full-feature trial instance for accredited ground handling service providers | Airport resource management, slot management, and operational billing system designed for ground handlers and regional airports. |
+| **[AeroCloud](https://aerocloudsystems.com/)** | AeroCloud Systems | ~$10M Revenue / ~$50M Valuation ($12.6M Series A raised) | $1,000 / month ($12,000 / year) for general aviation airfields ($3,500 / month for regional airports) | 14-day live software demo trial with up to 10 active flight track monitors | Cloud-native Airport Operating System (AOS) unifying flight management, AI gate allocation, FIDS, billing, and passenger management. |
 
-- **[Amadeus Airport Operational Database](https://amadeus.com/en/airports/airport-operational-database)**  
-
-  Central operational database system that consolidates flight, resource, and passenger data for airport-wide situational awareness and decision support.
-
-
-
-- **[SITA Airport Management](https://www.sita.aero/solutions/sita-airport-management/)**  
-
-  Integrated airport operations platform covering flight information, resource management, and collaborative decision-making for airports worldwide.
-
-
-
-- **[ADB SAFEGATE OneControl](https://www.adbsafegate.com/)**  
-
-  Airport operations control system unifying airfield, apron, and terminal management with real-time situational awareness.
-
-
-
-- **[Veovo](https://www.veovo.com/)**  
-
-  Airport operations platform with passenger flow prediction, resource management, and real-time situational awareness for airports worldwide.
-
-
-
-- **[ADB Safegate](https://www.adbsafegate.com/)**  
-
-  Airport operations and airfield management solutions including apron management, docking systems, and visual guidance.
-
-
-
-- **[AeroCloud](https://aerocloudsystems.com/)**  
-
-  Cloud-native Airport Operating System (AOS) unifying flight management, gate allocation, FIDS, billing, and asset management in a single platform with AI-driven gate allocation .
-
-
-
-- **[Damarel FiNDnet](https://www.damarel.com/)**  
-
-  Airport resource management and billing system for ground handlers and airports, covering slots, counters, and infrastructure.
-
-
-
-- **[INFORM Airport Suite](https://www.inform-software.com/)**  
-
-  AI-powered airport operations optimization with resource allocation, turnaround management, and passenger flow analytics.
-
-
-
-- **[Amadeus ACUS](https://amadeus.com/en/airports)**  
-
-  Amadeus Airport Common Use Service for passenger processing and operational management.
-
-
-
-- **[AirIT](https://www.airit.com/)**  
-
-  Airport IT services provider offering flight information display systems and operational database solutions, notably deployed at Philadelphia International Airport .
 
 
 
