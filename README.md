@@ -1,48 +1,42 @@
-# Awesome-Airport-Operations
+# ✈️ Awesome Airport Operations Management Software & Systems
 
-## Top Airport Operations Management Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Airport Operations Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airport-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Airport-Operations?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airport-Operations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Airport-Operations?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Airport-Operations/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Airport-Operations" alt="GitHub last commit"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🚀 Overview & Ecosystem
 
-*Focused on Airport Resource Optimization, Flight Information & Operational Intelligence*  
+A curated directory of top **SaaS platforms**, enterprise systems, and **open-source GitHub projects** for **Airport Operations Management Systems (AMS)**, **Airport Operational Databases (AODB)**, **Flight Information Display Systems (FIDS)**, **Airport Collaborative Decision-Making (A-CDM)**, and **Ground Handling Resource Allocation**.
 
-**Last updated: March 2026**
+Whether you are an airport authority, airline IT team, airside ground handler, or software developer building next-generation aviation systems, this list covers vendor software and developer tools across commercial and open-source ecosystems.
 
+---
 
+## 📑 Table of Contents
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Airport Operations Management**. These tools manage airport resource allocation, flight information display, baggage handling, passenger flow, turnaround management, and collaborative decision-making (A-CDM) for airports, ground handlers, and aviation authorities.
+---
 
+## 🏢 SaaS/Hosted Platforms
 
-
-**Examples** include Amadeus Airport Operational Database, SITA Airport Management, ADB SAFEGATE OneControl, Veovo, ADB Safegate, AeroCloud, Damarel FiNDnet, INFORM Airport Suite, Amadeus ACUS, and AirIT (the category leaders).
-
-
-
-**Open-source emphasis**: This section is expanded with active projects for self-hosting, custom operational workflows, and transparent airport data management — ideal for airports, ground handlers, researchers, and developers building vendor-independent airport operations solutions. Note that the open-source ecosystem for full-scale airport operations management remains limited compared to other domains, with most projects being academic, simulation-focused, or narrow in scope.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-> **Market Overview:** The global Airport Management Systems (AMS) market is estimated at **$20.0 Billion – $45.7 Billion** (projected to reach $45.72 Billion by 2034 with a ~16.6% CAGR). The sector is **moderately to highly fragmented**, comprising specialized software providers, infrastructure integrators, and global aerospace enterprise conglomerates across flight information display, airside operations, and A-CDM sub-segments.
+> **📊 Market Overview:** The global Airport Management Systems (AMS) market is estimated at **$20.0 Billion – $45.7 Billion** (projected to reach $45.72 Billion by 2034 with a ~16.6% CAGR). The sector is **moderately to highly fragmented**, comprising specialized software providers, infrastructure integrators, and global aerospace enterprise conglomerates across flight information display, airside operations, and A-CDM sub-segments.
 
 | Platform | Parent / Company | Company Size (Revenue / Valuation) | Starting Pricing | Free Tier / Trial Limit | Key Features & Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -57,10 +51,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Damarel FiNDnet](https://www.damarel.com/)** | Damarel Systems | ~$12M Revenue / ~$30M Valuation | $5,000 / year (Per station for ground handling operations) | 30-day full-feature trial instance for accredited ground handling service providers | Airport resource management, slot management, and operational billing system designed for ground handlers and regional airports. |
 | **[AeroCloud](https://aerocloudsystems.com/)** | AeroCloud Systems | ~$10M Revenue / ~$50M Valuation ($12.6M Series A raised) | $1,000 / month ($12,000 / year) for general aviation airfields ($3,500 / month for regional airports) | 14-day live software demo trial with up to 10 active flight track monitors | Cloud-native Airport Operating System (AOS) unifying flight management, AI gate allocation, FIDS, billing, and passenger management. |
 
+---
 
-
-
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 - **[Airport Management System Database Design](https://github.com/patilankita79/Airport-Management-System-Database-Design)** [![Stars](https://img.shields.io/badge/stars-75-white?style=social)](https://github.com/patilankita79/Airport-Management-System-Database-Design/stargazers)  
   Comprehensive database management project implemented in Oracle SQL, covering airport operations, airlines, passengers, staff deployment, and underlying operational workflow factors.
@@ -113,48 +106,48 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[GestionAir](https://github.com/ffillouxdev/GESTIONAIR)** [![Stars](https://img.shields.io/badge/stars-0-white?style=social)](https://github.com/ffillouxdev/GESTIONAIR/stargazers)  
   Console application in C for managing airport flight operations, passenger boarding, schedule updates, and runway utilization optimization.
 
+---
 
+## 💡 How to Contribute
 
-**Frameworks for building custom airport operations solutions**: For A-CDM research and simulation, the **A-CDM Simulator** provides a complete Eurocontrol milestone implementation. For concurrency and resource management studies, the **Airport Traffic Control Simulator** demonstrates deadlock handling and starvation prevention. For FIDS deployment, **bhishekarora/FIDS** or **OpenFIDS** offer lightweight starting points. For database-centric operational systems, the various airport database management projects provide schema foundations. Note that no comprehensive open-source replacement for commercial airport operations platforms (Amadeus AODB, SITA, ADB SAFEGATE OneControl) currently exists — the open-source ecosystem remains fragmented and primarily academic.
+Contributions are welcome! Help us maintain the most comprehensive guide to airport management tools.
 
+1. 🍴 **Fork** the repository.
+2. 📝 **Add or update** entries in `README.md` following the standard table/list formats.
+3. 🔗 Include official product links, factual descriptions, pricing tiers, and open-source star badges.
+4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Airport operations tools must comply with aviation regulations (ICAO Annex 14, EASA, FAA) and security standards.
-
-- Self-hosted open-source solutions require proper aviation-grade security, reliability, and regulatory validation before operational deployment.
-
-- The open-source ecosystem for full-scale airport operations management is significantly less mature than commercial offerings. Most projects listed are academic, simulation-focused, or narrow in scope. Production deployments should carefully evaluate gaps in functionality, security, and regulatory compliance.
-
-
+See the main list of awesome repositories at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 
 ---
 
+## 💖 Support & Sponsorship
 
+Thank you for visiting and supporting **Awesome Airport Operations**! 🌟
 
-**Made for airports, ground handlers, aviation authorities, and airport technologists.**  
+If you find this repository helpful for research, aviation software development, or industry benchmarking, please consider supporting the project:
 
-Let's make airport operations management more open, data-driven, and efficient.
+- ⭐️ **Star this repository** to increase visibility on GitHub.
+- 🍴 **Fork it** to customize or contribute back to the list.
+- 📢 **Share it** with colleagues, aviation technologists, and airport managers.
+- ☕ **Sponsor the developer** to support ongoing maintenance and new features:
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational, analytical, and informational purposes — it does not constitute endorsement or commercial affiliation.
+- Mission-critical airport operations software must strictly comply with international aviation regulations (ICAO Annex 14, FAA guidelines, EASA standards) and cybersecurity standards.
+- Self-hosted open-source software should undergo rigorous security audits and reliability testing before operational airside deployment.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Airport-Operations&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Airport-Operations&type=date&legend=top-left)
